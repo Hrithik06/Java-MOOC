@@ -19,4 +19,3 @@ If you have any suggestions or corrections for my code, feel free to submit a pu
 ## Acknowledgments
 
 I would like to thank the University of Helsinki for providing such a comprehensive and informative course on Java programming.
-
